@@ -1,0 +1,13 @@
+/* Set the background color of the main window */
+QMainWindow {
+    background-color: lightsalmon;  /* Beige background color */
+}
+
+/* Style for QPushButton */
+QPushButton {
+    background-color: #f8f8ee;
+}
+
+QPushButton:hover {
+    background-color: #83c5fb;
+}
